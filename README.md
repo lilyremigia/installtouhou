@@ -13,13 +13,13 @@ You can acquire the games from:
  * After clicking Next and it downloading a few files; scroll up and double click on `lang_en`. Click Next.
  * Wait for it to download stuff again >.<.
  * Just accept the default name aka click Next.
- * Next again, and again. _We rdo really need a new GUI..._
+ * Next again, and again. _We do really need a new GUI..._
  * Select your Touhou folder in the popped up browser picker.
  
    **If you have multiple Touhou games, select the folder that contains all of them!**
- * After this, grab the right side of the window and extend it, and click on the not `(not recommended)` ones. (**That was double negation!**)
+ * After this, grab the right side of the window and extend it, and click on the **not** `(not recommended)` ones. (**That was double negation!**)
  * After done, click yes.
- * Wait till it downloads the patches. Grab a coffee, if something goes wrong somewhere yu might be pulling all-nighter >.<.
+ * Wait till it downloads the patches. Grab a coffee, if something goes wrong somewhere you might be pulling all-nighter >.<.
  * Click next. You're done!
  * Go click on one of the shortcuts it createdand have a go! If you don't like shortcuts, check out the next section:
 ## Optional: Get Universal THCRAP Launcher or UTL for short
