@@ -5,7 +5,7 @@ You can acquire the games from:
  * [DLSite](https://www.dlsite.com/home/dlaf/=/aid/tudi20/url/https%3A%2F%2Fwww.dlsite.com%2Feng%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext) (Affliaite Link),
  * Piracy sites (recommended getting one with pre-packed with thpatch then).
 ## Installing thcrap
- * Go to your installation for Steam, right-click on your game in the client, select Manage and the Browse local files. On the others wherever you selected to download/install the game.
+ * Go to your installation for Steam, right-click on your game in the client, select Manage and then Browse local files. On the others wherever you selected to download/install the game.
  * If you see a thcrap folder you can skip the below test, and hopefully everything works!
  * Download [THCRAP](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download), extract it.
  * Run `thcrap-configure.exe`
