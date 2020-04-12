@@ -21,7 +21,7 @@ You can acquire the games from:
  * After done, click yes.
  * Wait till it downloads the patches. Grab a coffee, if something goes wrong somewhere you might be pulling all-nighter >.<.
  * Click next. You're done!
- * Go click on one of the shortcuts it createdand have a go! If you don't like shortcuts, check out the next section:
+ * Go click on one of the shortcuts it created and have a go! If you don't like shortcuts, check out the next section:
 ## Optional: Get Universal THCRAP Launcher or UTL for short
  * Go to [this page](https://github.com/thpatch/Universal-THCRAP-Launcher/releases) and download `utl.rar`.
  * Follow the instructions [here](https://github.com/thpatch/Universal-THCRAP-Launcher#installation).
