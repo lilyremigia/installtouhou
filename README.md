@@ -31,10 +31,13 @@ You can acquire the games from:
 ## Trobleshooting
 
 ### "d3dx9_XX.dll not found"
-   * Install DirectX 9 from [here](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+ * Install DirectX 9 from [here](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+   
+### Touhou 6 runs above 60 fps and is on stereoids
+ * See the thpatch section on it, [here](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download#HALP.21_My_Embodiment_of_Scarlet_Devil_runs_like_a_Tengu_jet_fighter_on_steroids.21.21).
 
 ### Other
-   * Something went wrong and not listed here? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry german made is avaliable at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
+ * Something went wrong and not listed here? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry german made is avaliable at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
 
 ## How do I help with the translations?
  That's easy! Just register, and start translating on the [thpatch wiki](https://thpatch.net).
