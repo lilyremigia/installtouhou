@@ -15,7 +15,6 @@ You can acquire the games from:
  * Just accept the default name aka click Next.
  * Next again, and again. _We do really need a new GUI..._
  * Select your Touhou folder in the popped up browser picker.
- 
    **If you have multiple Touhou games, select the folder that contains all of them!**
  * After this, grab the right side of the window and extend it, and click on the **not** `(not recommended)` ones. (**That was double negation!**)
  * After done, click yes.
@@ -26,9 +25,12 @@ You can acquire the games from:
  * Go to [this page](https://github.com/thpatch/Universal-THCRAP-Launcher/releases) and download `utl.rar`.
  * Follow the instructions [here](https://github.com/thpatch/Universal-THCRAP-Launcher#installation).
 ## Trobleshooting
- Something went wrong? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry german made is avaliable at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
+### "d3dx9_XX.dll not found"
+ * Install DirectX 9 from [here](https://www.microsoft.com/en-us/download/details.aspx?id=35).
+### Other
+ * Something went wrong and not listed here? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry german made is avaliable at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
 ## How do I help with the translations?
- That's easy! Just register, and star translating on the [thpatch wiki](https://thpatch.net).
+ That's easy! Just register, and start translating on the [thpatch wiki](https://thpatch.net).
 ## I can code! Can I help?
  Sure! Head over to [THPATCH's Discord server](https://discord.thpatch.net/) and we will sort you out.
 ## I have the money! Where can I donate?
