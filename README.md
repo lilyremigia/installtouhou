@@ -29,9 +29,11 @@ You can acquire the games from:
  * Follow the instructions [here](https://github.com/thpatch/Universal-THCRAP-Launcher#installation).
  
 ## Trobleshooting
- * "d3dx9_XX.dll not found"
+
+### "d3dx9_XX.dll not found"
    * Install DirectX 9 from [here](https://www.microsoft.com/en-us/download/details.aspx?id=35).
- * Other
+
+### Other
    * Something went wrong and not listed here? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry german made is avaliable at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
 
 ## How do I help with the translations?
