@@ -8,7 +8,7 @@ You can acquire the games from:
 ## Installing thcrap
  * Browse to the folder that contains your Touhou games and remember it.
    * **Steam:** Go to your installation for Steam, right-click on your game in the client, select Manage and then Browse local files.
-   * **Other:** On the others wherever you selected to download/install the game.
+   * **Other:** Wherever you selected to download/install the game.
  * If you see a thcrap folder you can skip the downloading part.
  * Download [THCRAP](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download), and extract it somewhere close.
  * Run `thcrap-configure.exe`.
