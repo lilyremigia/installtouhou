@@ -6,25 +6,27 @@ You can acquire the games from:
  * Piracy sites (recommended getting one with pre-packed with thpatch then).
  
 ## Installing thcrap
- * Go to your installation for Steam, right-click on your game in the client, select Manage and then Browse local files. On the others wherever you selected to download/install the game.
- * If you see a thcrap folder you can skip the below test, and hopefully everything works!
- * Download [THCRAP](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download), extract it.
- * Run `thcrap-configure.exe`
+ * Browse to the folder that contains your Touhou games and remember it.
+   * **Steam:** Go to your installation for Steam, right-click on your game in the client, select Manage and then Browse local files.
+   * **Other:** On the others wherever you selected to download/install the game.
+ * If you see a thcrap folder you can skip the downloading part.
+ * Download [THCRAP](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download), and extract it somewhere close.
+ * Run `thcrap-configure.exe`.
  
 ## Installing the English patch
  * After clicking Next and it downloading a few files; scroll up and double click on `lang_en`. Click Next.
  * Wait for it to download stuff again >.<.
  * Just accept the default name aka click Next.
  * Next again, and again. _We do really need a new GUI..._
- * Select your Touhou folder in the popped up browser picker.
-   **If you have multiple Touhou games, select the folder that contains all of them!**
- * After this, grab the right side of the window and extend it, and click on the **not** `(not recommended)` ones. (**That was double negation!**)
+ * Select your Touhou folder(that I made you remember above) in the popped up folder browser.
+   >If you have multiple Touhou games, select the folder that contains all of them!
+ * After this, grab the right side of the window and extend it, and click on the ones that **DOES NOT** contain `(not recommended)`.
  * After done, click yes.
  * Wait till it downloads the patches. Grab a coffee, if something goes wrong somewhere you might be pulling all-nighter >.<.
  * Click next. You're done!
  * Go click on one of the shortcuts it created and have a go! If you don't like shortcuts, check out the next section:
  
-## Optional: Get Universal THCRAP Launcher or UTL for short
+## Optional: Get Universal THCRAP Launcher (aka. UTL) for short
  * Go to [this page](https://github.com/thpatch/Universal-THCRAP-Launcher/releases) and download `utl.rar`.
  * Follow the instructions [here](https://github.com/thpatch/Universal-THCRAP-Launcher#installation).
  
@@ -49,5 +51,5 @@ You can acquire the games from:
  * [THPATCH](https://opencollective.com/thpatch/),
  * [Me](https://ko-fi.com/tudi20).
  
-## How do I make other mods?
+## How do I make mods?
  That's a bit more complicated... but you can get started by joining the [THPATCH's Discord server](https://discord.thpatch.net/) if you need any help, and reading trough [this](https://gist.github.com/WindowDump/e007516524b7488eccf74a020b3c7977) and at least 1.0 from [this](https://priw8.github.io/#b=ecl-tutorial/&p=1).
