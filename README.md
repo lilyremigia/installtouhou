@@ -47,7 +47,7 @@ You can acquire the games from:
  * Since ZUN decided to use Japanese in file names, and Windows XP back then didn't knew what UTF-8 is, unless your system is fully in Japanese, your Touhou 6 won't run, since it doesn't match up with what vpatch except, since your file name is in [mojibake](https://en.wikipedia.org/wiki/Mojibake).
  * You will have to follow instruction about this on [thpatch's site](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download#HALP.21_My_Embodiment_of_Scarlet_Devil_runs_like_a_Tengu_jet_fighter_on_steroids.21.21).
  
-### With thcrap
+### adding it to thcrap
 
 #### Legacy
  * Go to your thcrap folder, open the `config` folder, and inside it, open `games.js˛` **IN A TEXT EDITOR**.
