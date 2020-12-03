@@ -35,13 +35,13 @@ You can acquire the games from:
 ### By default
  * Go to [this page](https://www.mediafire.com/file/zxdhr7rdpzrlnmt/VsyncPatch.zip/file) and download it.
  * Extract it and follow the instructions in the provided text file.
-  * Which basically is copy the right thing to the right place.
-  * You need the `vpatch.exe`, `vpatch.ini`, and the right dll for your game, copied in the game's folder.
-  * Note that both rev4 and rev7 has dlls for th10, th11, and th095.
+   * Which basically is copy the right thing to the right place.
+   * You need the `vpatch.exe`, `vpatch.ini`, and the right dll for your game, copied in the game's folder.
+   * Note that both rev4 and rev7 has dlls for th10, th11, and th095.
  * Configure the `vpatch.ini` file to your liking. You will probably want to set a few things like actually enabling vsync if you aren't using 60hz monitor, changing the resolution, changing if it should be borderless, or ask if you want it to be full screen or windowed every time, for games that didn't had this functionality.
  * For older games it also ports back some of the newer games' features, like Ctrl skipping in dialogue or replays.
  * You must run `vpatch.exe`.
-  * Note: Vpatch will always launch `thxx.exe` or the like (except th06), so if you want it to run the static English patch, you will have to rename those.
+   >Note: Vpatch will always launch `thxx.exe` or the like (except th06), so if you want it to run the static English patch, you will have to rename those.
   
 ### Touhou 6 is a bit more janky
  * Since ZUN decided to use Japanese in file names, and Windows XP back then didn't knew what UTF-8 is, unless your system is fully in Japanese, your Touhou 6 won't run, since it doesn't match up with what vpatch except, since your file name is in [mojibake](https://en.wikipedia.org/wiki/Mojibake).
@@ -53,7 +53,7 @@ You can acquire the games from:
  * Go to your thcrap folder, open the `config` folder, and inside it, open `games.js˛` **IN A TEXT EDITOR**.
  * Edit the lines that have paths to your games (usually ending in "thxx.exe"), to and change the "thxx.exe" part to "vpatch.exe".
  * [This is an example file of how your thcrap/config/games.js should look like, if you want to use it with vpatch.](https://gist.github.com/Tudi20/029f63dbc85a838d97ad0fb973956266).
-  * Yours will probably need to look different.
+   * Yours will probably need to look different.
  * You can just launch thcrap regularly.
  
 #### Modern
