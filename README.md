@@ -2,7 +2,7 @@
 ## Acquire the Games
 You can acquire the games digitally from:
  * [Steam](https://store.steampowered.com/search/?developer=%E4%B8%8A%E6%B5%B7%E3%82%A2%E3%83%AA%E3%82%B9%E5%B9%BB%E6%A8%82%E5%9B%A3) (Not recommended due to Steam DRM sometimes present),
- * [DLSite](https://www.dlsite.com/home/dlaf/=/aid/tudi20/url/https%3A%2F%2Fwww.dlsite.com%2Feng%2Fcircle%2Fprofile%2F%3D%2Fmaker_id%2FRG46179.html%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext) (Affiliate Link),
+ * [DLSite](https://www.dlsite.com/home/dlaf/=/aid/tudi20/url/https%3A%2F%2Fwww.dlsite.com%2Fhome%2Fcircle%2Fprofile%2F%3D%2Fmaker_id%2FRG46179.html%2F%3Futm_medium%3Daffiliate%26utm_campaign%3Dbnlink%26utm_content%3Dtext) (Affiliate Link),
 
  * Piracy sites (recommended getting one with pre-packed with thpatch then) only use as last resort, SUPPORT CREATORS.
  
