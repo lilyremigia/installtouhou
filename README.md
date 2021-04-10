@@ -6,7 +6,7 @@ You can acquire the games digitally from:
 
  * Piracy sites (recommended getting one with pre-packed with thpatch then) only use as last resort, SUPPORT CREATORS.
  
-For physical copies see [Touhou Wiki's Purhcasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide) for information.
+For physical copies see [Touhou Wiki's Purchasing Guide](https://en.touhouwiki.net/wiki/Purchasing_Guide) for information.
  
 ## Installing thcrap
  * Browse to the folder that contains your Touhou games and remember it.
