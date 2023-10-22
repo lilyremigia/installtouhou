@@ -12,15 +12,30 @@ For physical copies see [Touhou Wiki's Purchasing Guide](https://en.touhouwiki.n
  * Browse to the folder that contains your Touhou games and remember it.
    * **Steam:** Go to your installation for Steam, right-click on your game in the client, select Manage and then Browse local files.
    * **Other:** Wherever you selected to download/install the game.
- * If you see a thcrap folder you can skip the downloading part.
+ * If you see a thcrap folder you can skip the downloading part, and probably the installing part too.
+   *  However, if you downloaded multiple games and see thcrap in each of the games' folder, you should probably consolidate the installation.
  * Download [THCRAP](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download), and extract it somewhere close.
- * Run `thcrap-configure.exe`.
+ * Run ~~`thcrap_configure.exe`~~ `thcrap.exe`.
  
 ## Installing the English patch
+### Wizard stlye (Current)
+Also known as `thcrap_configure_v3.exe`.
+ * Intro page, click Next.
+ * Select English, click Next.
+ * Should automatically detect your installation if in common place.
+  *  You can try again, by clicking the Search automatically button.
+  *  If still doesn't work, click Search in folder, and choose which folder, you have downloaded it in.
+  *  Note that, you will have to redo this, if you move the games, so make sure to move the games before.
+ *  Click Next once you have selected all the games.
+ *  While the translations are downloading, if above legal drinking age, drink beer, as ZUN intended.
+ *  Click Finish.
+
+### Legacy
+Also known as `thcrap_configure.exe`.
  * After clicking Next and it is downloading a few files; scroll up and double click on `lang_en`. Click Next.
  * Wait for it to download stuff again >.<.
  * Just accept the default name aka click Next.
- * Next again, and again. _We do really need a new GUI..._
+ * Next again, and again. ~~_We do really need a new GUI..._~~ _Oh, we have one now!_
  * Select your Touhou folder (that I made you remember above) in the popped up folder browser.
    >If you have multiple Touhou games, select the folder that contains all of them!
  * After this, grab the right side of the window and extend it, and click on the ones that **DOES NOT** contain `(not recommended)`.
@@ -60,7 +75,9 @@ For physical copies see [Touhou Wiki's Purchasing Guide](https://en.touhouwiki.n
  * You can just launch thcrap regularly.
  
 #### Modern
- * New thcrap should automatically detect vpatch in the scanning for games part of configuration, so you should just re-run that. Just to be sure choose "Rescan" instead of "Add new games".
+ * New thcrap should automatically detect vpatch in the scanning for games part of configuration, so you should just re-run that.
+  * ~~Just to be sure choose "Rescan" instead of "Add new games"~~ (This is for the legacy configurator).
+  * For the wizard-style, you should be able to choose vpatch as the version of the game.
  
 ## Troubleshooting
 
@@ -70,18 +87,17 @@ For physical copies see [Touhou Wiki's Purchasing Guide](https://en.touhouwiki.n
 ### Touhou 6 runs above 60 fps and is on steroids
  * See the thpatch section on it, [here](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download#HALP.21_My_Embodiment_of_Scarlet_Devil_runs_like_a_Tengu_jet_fighter_on_steroids.21.21).
 
-### Other
+### How can I contribute?
  * Something went wrong and not listed here? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry German made is available at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
 
-## How do I help with the translations?
+## Linguistically, via translations
  That's easy! Just register, and start translating on the [thpatch wiki](https://thpatch.net).
  
-## I can code! Can I help?
+## Programming and coding
  Sure! Head over to [THPATCH's Discord server](https://discord.thpatch.net/) and we will sort you out.
  
-## I have the money! Where can I donate?
- * [THPATCH](https://opencollective.com/thpatch/),
- * [Me](https://ko-fi.com/tudi20).
+## Monetarily via tips
+ * [THPATCH](https://opencollective.com/thpatch/)
  
-## How do I make mods?
+## Using thpatch for your modding needs
  That's a bit more complicated... but you can get started by joining the [THPATCH's Discord server](https://discord.thpatch.net/) if you need any help, and reading trough [this](https://gist.github.com/WindowDump/e007516524b7488eccf74a020b3c7977) and at least 1.0 from [this](https://priw8.github.io/#b=ecl-tutorial/&p=1).
