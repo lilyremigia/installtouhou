@@ -87,16 +87,18 @@ Also known as `thcrap_configure.exe`.
 ### Touhou 6 runs above 60 fps and is on steroids
  * See the thpatch section on it, [here](https://www.thpatch.net/wiki/Touhou_Patch_Center:Download#HALP.21_My_Embodiment_of_Scarlet_Devil_runs_like_a_Tengu_jet_fighter_on_steroids.21.21).
 
-### How can I contribute?
+### Other issue
  * Something went wrong and not listed here? Oh no! However, you don't need to worry as a bunch of tech monkeys, who got left with the code base mess that an angry German made is available at [THPATCH's Discord server's #support channel](https://discord.thpatch.net/).
 
-## Linguistically, via translations
+## How can I contribute?
+
+### Linguistically, via translations
  That's easy! Just register, and start translating on the [thpatch wiki](https://thpatch.net).
  
-## Programming and coding
+### Programming and coding
  Sure! Head over to [THPATCH's Discord server](https://discord.thpatch.net/) and we will sort you out.
  
-## Monetarily via tips
+### Monetarily via tips
  * [THPATCH](https://opencollective.com/thpatch/)
  
 ## Using thpatch for your modding needs
