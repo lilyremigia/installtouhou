@@ -18,7 +18,7 @@ For physical copies see [Touhou Wiki's Purchasing Guide](https://en.touhouwiki.n
  * Run ~~`thcrap_configure.exe`~~ `thcrap.exe`.
  
 ## Installing the English patch
-### Wizard stlye (Current)
+### Wizard style (Current)
 Also known as `thcrap_configure_v3.exe`.
  * Intro page, click Next.
  * Select English, click Next.
