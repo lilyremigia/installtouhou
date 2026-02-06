@@ -47,7 +47,8 @@ Also known as `thcrap_configure.exe`.
 ## Optional: Get Universal THCRAP Launcher (aka. UTL) for short
  * Go to [this page](https://github.com/thpatch/Universal-THCRAP-Launcher/releases) and download `utl.rar`.
  * Follow the instructions [here](https://github.com/thpatch/Universal-THCRAP-Launcher#installation).
- 
+ * [New project (in-development) by gatecrasher](https://github.com/gatecrasherr/Universal-THCRAP-Launcher).
+   
 ## Optional: Setting up vpatch
 
 ### By default
